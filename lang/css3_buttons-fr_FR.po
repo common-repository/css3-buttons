@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CSS3 Buttons 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-14 14:07+0100\n"
+"PO-Revision-Date: 2010-08-14 14:19+0100\n"
+"Last-Translator: TuniLame <tunilame@gmail.com>\n"
+"Language-Team: TuniLame <tunilame@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: E:\\wamp\\www\\tunilame\\blog\\wp-content\\plugins\\css3-buttons\n"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:113
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:143
+msgid "settings saved."
+msgstr ""
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:147
+msgid "error saving data."
+msgstr ""
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:155
+msgid "CSS3 Buttons"
+msgstr "Boutons CSS3"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:166
+msgid "CSS3 Buttons informations"
+msgstr "Informations"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:171
+msgid "How to use it:"
+msgstr "Comment utiliser:"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:172
+msgid "To add a customised button for each post, add the following attributes with the shortcode in you post content:"
+msgstr "Pour ajouter un bouton personnalisé pour chaque article, ajoutez-y les attributs suivants avec le shortcode:"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:173
+msgid "text that will be displayed as the value on the button"
+msgstr "le texte qui va être afficher en tant que valeur du bouton"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:174
+msgid "Attributes that can be used: "
+msgstr "Les attributs qui peuvent être utilisés:"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:175
+msgid "There is 7 different colors"
+msgstr "7 couleurs différentes sont disponibles"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:175
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:176
+msgid "and"
+msgstr "et"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:176
+msgid "There is 4 different sizes"
+msgstr "4 tailles différentes sont disponibles"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:177
+msgid "The link of the button"
+msgstr "Le lien du bouton"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:177
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:224
+msgid "Example"
+msgstr "Exemple"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:177
+msgid "Your site's URL"
+msgstr "L'URL de votre site"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:178
+msgid "The link's targeted window, can be"
+msgstr "La cible du lien, peut être"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:178
+msgid "or"
+msgstr "ou"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:182
+msgid "Tip"
+msgstr "Astuce"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:183
+msgid "If you don't add one of the attributes shown above, the defaut attribute will be used (see below)."
+msgstr "Si vous n'ajoutez pas un des attributs ci-dessus, l'attribut par défaut sera utilisé (voir ci-dessous)."
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:192
+msgid "Default CSS3 button settings"
+msgstr "Paramètres du bouton CSS3 par défaut"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:197
+msgid "Default CSS3 button color:"
+msgstr "Couleur du bouton CSS3 par défaut:"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:201
+msgid "Default CSS3 button name:"
+msgstr "Nom du bouton CSS3 par défaut:"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:204
+msgid "Default CSS3 button size:"
+msgstr "Taille du bouton CSS3 par défaut:"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:205
+msgid "Small"
+msgstr "Petit"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:206
+msgid "Medium"
+msgstr "Moyen"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:207
+msgid "Large"
+msgstr "Grand"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:208
+msgid "Super"
+msgstr "Trés grand"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:211
+msgid "Default CSS3 button link:"
+msgstr "Lien du bouton CSS3 par défaut:"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:214
+msgid "Default CSS3 button's link target:"
+msgstr "La cible du lien du bouton CSS3 par défaut:"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:216
+msgid "Blank page"
+msgstr "Nouvelle fenêtre"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:217
+msgid "New page"
+msgstr "Nouvelle page"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:218
+msgid "Parent page"
+msgstr "Page parent"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:218
+msgid "Same page"
+msgstr "Même page"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:219
+msgid "Top page"
+msgstr "Page mère"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:222
+msgid "How to add the default button:"
+msgstr "Comment ajouter le bouton par défaut"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:223
+msgid "Simply add this shortcode in you posts: "
+msgstr "Ajoutez simplement ce shortcode dans votre article"
+
+#: E:\wamp\www\tunilame\blog\wp-content\plugins\css3-buttons/css3-buttons.php:224
+msgid "Demo"
+msgstr "Demo"
+
